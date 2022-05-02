@@ -1,0 +1,13 @@
+# Python(TM) 3 - a high-level object-oriented language
+
+names:
+  - "python3"
+  - "python3.10"
+  - "python"
+license:
+  spdx-id: "Python-2.0"
+   
+git: "https://github.com/python/cpython.git"
+git-dest: "cpython"
+install-command: "make install"
+setup-command: "bash ./configure.sh"
